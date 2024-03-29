@@ -7,8 +7,8 @@ import { Footer } from "./layout/Footer";
 const spaceMono = Space_Mono({ weight: "400", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "The Proposal",
-  description: "The Proposal",
+  title: "Liliana",
+  description: "Liliana",
 };
 
 export default function RootLayout({

@@ -60,15 +60,15 @@ const lettersContent = [
     image: "/kitten-intro.gif",
   },
   {
-    text: "Lorem",
+    text: "Gracias a ti pude darme cuenta que nunca fue demasiado lo que tanto le pedía a Diosito y a la vida, esa mujer amorosa, sin miedo a expresar lo que siente por mí, esa mujer trabajadora, valiente, perseverante, madura, divertida, preciosa, enojona 🤣, única en todo sentido y... picosa 🙈 que tanto amo",
     image: "/kitten-2.gif",
   },
   {
-    text: "Lorem",
+    text: "Creo que nunca me cansaré de decirte lo mucho que te amo, lo valiosa que eres y como te has convertido en mi prioridad en tan poco tiempo, pareciera que al hablar contigo el tiempo pasa volando como si nos conociéramos de años, queda mucho camino por recorrer, pero estoy seguro que será mucho más fácil si lo recorremos juntos",
     image: "/kitten-4.gif",
   },
   {
-    text: "Lorem",
+    text: "Siempre pensé que frases como 'todo llega a su tiempo' eran demasiadas cliché para mi, pero hoy me doy cuenta que es más real de lo que pensaba, cause cuando menos lo buscaba y cuando menos lo esperaba, apareciste en mi vida, convirtiéndote en lo más bonito y valioso que jamás me había pasado, so... tengo una pregunta importante que hacerte...",
     image: "kitten-3.gif",
   },
 ];

@@ -19,9 +19,9 @@ const Accept = () => {
             <p className="text-md text-center lg:text-lg font-medium text-black">
               Eres la mejor mujer que Diosito y la vida pudo haberme dado, eso
               que tanto pedí y que por un momento pensé que en este nuevo mundo
-              sería imposible encontrar. <br />
-              Gracias por existir, por ser quien eres, por salir adelante, mi
-              cielito lindo,{" "}
+              sería imposible de encontrar. <br />
+              Gracias por existir, por ser quien eres, por salir adelante, por
+              hacer mi vida mucho más bonita, mi cielito lindo,{" "}
               <span className="font-semibold">te amo mi amor ❤️</span>
             </p>
             <Image
