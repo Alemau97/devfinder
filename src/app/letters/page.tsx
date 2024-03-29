@@ -5,14 +5,14 @@ import { Container } from "@/override/container";
 import { useRouter } from "next/navigation";
 import React from "react";
 
-const page = () => {
+const Letters = () => {
   const router = useRouter();
   return (
     <div className="w-full min-h-screen flex items-center bg-gradient-to-tl from-sky-400 via-sky-300 to-sky-200">
       <Container className="mx-auto w-full flex flex-col justify-center gap-y-6">
         <p className="text-lg text-center lg:text-xl font-semibold text-black">
           But before...
-          <br /> There's something I'd like you to read
+          <br /> There&apos;s something I&apos;d like you to read
         </p>
         <LettersCarousel />
         <div className="w-full flex justify-between items-center">
@@ -31,7 +31,7 @@ const page = () => {
   );
 };
 
-export default page;
+export default Letters;
 
 const buttons = [
   {

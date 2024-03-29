@@ -1,7 +1,7 @@
 import { userData } from "@/api/github-api";
 import { useState, useEffect } from "react";
 
-export const fetchData = (userName: string) => {
+export const FetchData = (userName: string) => {
   const [user, setUser] = useState({});
 
   const informacion = async () => {

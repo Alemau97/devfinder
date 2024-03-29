@@ -6,7 +6,7 @@ import Image from "next/image";
 import { Button } from "@/components/ui/button";
 import { useRouter } from "next/navigation";
 
-const page = () => {
+const Accept = () => {
   const router = useRouter();
   return (
     <div className="w-full min-h-screen flex items-center bg-gradient-to-tl from-sky-400 via-sky-300 to-sky-200">
@@ -47,4 +47,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Accept;
